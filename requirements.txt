@@ -1,0 +1,10 @@
+langchain
+langgraph
+fastapi
+uvicorn
+streamlit
+langchain-community
+langchain-core
+langchain-ollama
+langchain-community
+langchain-core

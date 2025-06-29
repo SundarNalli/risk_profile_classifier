@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "question": "How would you react if your investment dropped 20% in a month?",
+      "type": "emotional",
+      "options": ["Panic and sell", "Wait and watch", "Buy more"]
+    },
+    {
+      "id": 2,
+      "question": "What's your investment goal time horizon?",
+      "type": "financial",
+      "options": ["Less than 3 years", "3-7 years", "More than 7 years"]
+    }
+  ]
